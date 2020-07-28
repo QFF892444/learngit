@@ -6,3 +6,6 @@ wfgasdg
 
 learngit1
   i   am  dev version!!!
+  
+  pull
+  
